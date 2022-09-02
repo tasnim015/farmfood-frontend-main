@@ -1,0 +1,18 @@
+.filter-options{
+   content: '  ';
+   width: 150px;
+   height: 100px;
+   position: absolute;
+   right: 18%;
+   top: 38%;
+   display: block;
+   background-color: rgb(255, 252, 249);
+   z-index: 99;
+   box-shadow: 0 0 5px rgb(196, 196, 196);
+}
+
+#option-1:hover,#option-2:hover,#option-3:hover{
+   background-color: rgb(201, 201, 201);
+   cursor: pointer;
+}
+   
